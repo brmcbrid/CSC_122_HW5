@@ -2,6 +2,8 @@
 # Keno Lottery Game
 # by <your name>
  
+# Your solution code to implement the required functions goes here
+ 
 def main():
     random.seed(0)  # this sets the random numbers to a default known set for testing
     print(f"Keno Lottery Game\n")
